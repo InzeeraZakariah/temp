@@ -1,0 +1,12 @@
+fastapi
+pydantic
+torch
+transformers
+safetensors
+uvicorn
+dotenv
+python-multipart
+requests
+gradio
+matplotlib
+reportlab
